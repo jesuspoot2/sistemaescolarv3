@@ -1,0 +1,15 @@
+{
+    "name": "jesusdavidpoot/sistemaescolarv3",
+    "description": "Sistema Escolar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jesuspoot2",
+            "email": "jesusph0672@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^7.29",
+        "illuminate/events": "^7.29"
+    }
+}
